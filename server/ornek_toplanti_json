@@ -1,0 +1,18 @@
+{
+    "tarih" : "18-03-2021",
+    "fakulte_id" : "1",
+    "gundemler" : ["birinci gundem", "ikinci gundem", "ucuncu gundem", "dorduncu gundem"],
+    "kararlar" :  ["birinci karar", "ikinci karar", "ucuncu karar", "dorduncu karar"]
+}
+
+
+{
+     "gundemler" : ["birinci gundem", "ikinci gundem", "ucuncu gundem", "dorduncu gundem"],
+     "yonetim_kurulu_id" : "1"
+}
+
+
+{
+    "gundemler" : ["guncellenmis birinci gundem", "guncellenmis ikinci gundem"],
+    "kararlar" : ["guncellenmis birinci karar", "guncellenmis ikinci karar"]
+}
